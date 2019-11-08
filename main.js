@@ -258,9 +258,8 @@ function createWindow () {
         }
     });
 
-    if (macOS) {
-        Menu.setApplicationMenu(menu);
-    } else {
+    Menu.setApplicationMenu(menu);
+    if (!macOS) {
         win.setMenu(menu);
     }
 
