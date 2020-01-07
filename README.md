@@ -2,6 +2,7 @@
 Log work hours and get notified when it's time to leave the office and start to live.
 
 ![time-to-leave](https://user-images.githubusercontent.com/846063/67172932-9e1db580-f393-11e9-87bc-1f51d57f8788.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkashaiahyah85%2Ftime-to-leave.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkashaiahyah85%2Ftime-to-leave?ref=badge_shield)
 
 Just log the time you started working today, and the program will compute what time you should leave the office, considering the time you spent on lunch. When it's time, the program will notify you.
 
@@ -65,3 +66,7 @@ Icons made by [freepik](https://www.flaticon.com/authors/freepik) from [www.flat
 Original Timer icon by [lucy-g](https://icon-icons.com/icon/timer/121243), colored variations and formats modified from it.
 
 Sick icon by [SVG Repo](https://www.svgrepo.com/svg/271898/sick).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkashaiahyah85%2Ftime-to-leave.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkashaiahyah85%2Ftime-to-leave?ref=badge_large)
